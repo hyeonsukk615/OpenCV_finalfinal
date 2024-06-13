@@ -40,4 +40,4 @@ CuTX: 이미지의 오른쪽 절반 또는 아래쪽 절반에서 너비 또는 
 
 cent: 이미지를 정제하고 connectedComponentsWithStats 함수를 사용하여 연결된 컴포넌트를 찾고, 각 컴포넌트의 레이블, 통계 정보 및 중심점을 얻습니다.윤곽선을 찾고, 각 윤곽선의 중심을 계산하여 이를 중심점으로 저장합니다. 각 중심점에 대해 원을 그려서 시각적으로 표시합니다.중심점들을 반환합니다.
 
-https ://youtu.be/k9xm-xAO1nY
+[https ://youtu.be/k9xm-xAO1nY](https://www.youtube.com/watch?v=3UMN080L980)
